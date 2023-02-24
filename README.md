@@ -1,5 +1,5 @@
 # MindMap
-Созданные интеллект-карты под различные проекты.
+Созданные интеллект-карты под различные проекты по мере создания
 
 <a href="https://www.mindmanager.com/">
 <img src="https://github.com/DmitrievRB/DmitrievRB/blob/master/icons/mindmanager.png" alt="MindManager" width="50" height="50" />
